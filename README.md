@@ -9,5 +9,5 @@
     * Club Description (this comes in handy for emailing sponsors and having in your brain for when people ask "wat is webdev")
 - [Attend the first club council meeting of the semester](https://uvss.ca/student-groups/clubs/) - DONT MISS THIS (It's how you qualify for the base funding every club automatically gets each semester (ususally ~ $100)
 - [Book a room for webdev through an online form](http://www.uvic.ca/registrar/students/services/index.php) (you can only do this once you are 'ratified' by the UVSS for that semester, which usually happens after you submit your returning clubs form or you attend the first clubs council meeting. 
-   * Pro-tip: If you have a faculty member that can book a room for you before you are ratified, you have a better chance of booking a room you want (rooms in ECS book up very quickly)
+   * *Pro-tip: If you have a faculty member that can book a room for you before you are ratified, you have a better chance of booking a room you want (rooms in ECS book up very quickly)*
 
