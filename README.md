@@ -2,8 +2,7 @@
 
 # Register with UVSS
 
-**Before the beginning of every semester you wish to be active**, make sure you:
-- Understand all of the deadlines for below items and plan ahead to get them done
+**Before the beginning of every semester you wish to be active**, make sure you understand all of the deadlines for below items so you can complete them on time:
 
 - [Register as a returning club](https://uvss.ca/student-groups/clubs/registration-resources/returning-club/) through an online form. Some information for this form that you will need is:
     * Club Constitution - make sure you skim and update any relevant information, like dates (this was reporpused from the UVic Pets club constitution, so don't sweat the details lul)
