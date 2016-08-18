@@ -4,7 +4,7 @@
 
 **Before the beginning of every semester you wish to be active**, make sure you understand all of the deadlines for below items so you can complete them on time:
 
-- [Register as a returning club](https://uvss.ca/student-groups/clubs/registration-resources/returning-club/), here's some info that might come in handy:
+- [Register as a returning club](https://uvss.ca/student-groups/clubs/registration-resources/returning-club/), here's some info that will come in handy:
     * Constitution
     * Description
 - [Attend the first club council meeting of the semester](https://uvss.ca/student-groups/clubs/)
