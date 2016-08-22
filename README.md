@@ -16,4 +16,4 @@
    * *If you have a faculty member that can book a room for you before you are ratified, you have a better chance of booking (rooms in ECS book up very quickly)*
    * *Bob Wright Building is a nice back-up plan (nicish projectors, lots of outlets, nicer building, etc)*
 
-![much-hype](graphics/hype-web-dev.jpg)
+![much-hype](graphics/readmegraphic.png)
