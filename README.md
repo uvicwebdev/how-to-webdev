@@ -11,7 +11,7 @@
 
 
 - [Attend the first club council meeting of the semester](https://uvss.ca/student-groups/clubs/)
-   * Find out how to reserve a table at clubs day
+   * Find out how to reserve a table for clubs day
 
 
 - [Book a room](http://www.uvic.ca/registrar/students/services/index.php)
