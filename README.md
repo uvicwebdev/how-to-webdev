@@ -29,9 +29,9 @@ Clubs and Course Union days are usually around the 2nd or 3rd week of the beggin
 
 # The Social Medias
 
-- [Facebook Group](https://www.facebook.com/groups/UVic.io/) (post everything here much users)
-- [Facebook Account](https://www.facebook.com/Uvicaccount) (post on group from account)
-- [Slack Group](https://webdevclub.slack.com/messages) (great for organizing events and sharing memes)
+- [Facebook group](https://www.facebook.com/groups/UVic.io/) (post everything here much users)
+- [Facebook account](https://www.facebook.com/Uvicaccount) (post on group from account)
+- [Slack group](https://webdevclub.slack.com/messages) (great for organizing events and sharing memes)
 - [Club landing page design](https://github.com/uvicwebdev/club-landing)
 - [Twitter](https://twitter.com/uvicwebdev) (the hype account)
 
