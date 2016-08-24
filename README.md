@@ -10,11 +10,27 @@
     * [Club Description](club-admin/club-description.txt)
 
 
-- [Attend the first club council meeting of the semester](https://uvss.ca/student-groups/clubs/)
-   * Find out how to reserve a table for clubs day
+- [Attend the first Clubs Council meeting of the semester](https://uvss.ca/clubs/)
+   * Find out how to reserve a table for clubs day (try to get one by an outlet)
 
 
 - [Book a room](http://www.uvic.ca/registrar/students/services/index.php)
    * *If you have a faculty member that can book a room for you before you are ratified, you have a better chance of booking (rooms in ECS book up very quickly)*
    * *Bob Wright Building is a nice back-up plan (nicish projectors, lots of outlets, nicer building, etc)*
+
+
+# Clubs Day
+
+Clubs and Course Union days are usually around the 2nd or 3rd week of the begginning of each semester.
+
+- Find peeps to man the booth
+- Prepare some [swaggy posters](clubs-day-posters) to hang up
+- You're rockin if you manage some tasty/fun table incentives (candy, stickers, etc)
+
+# The Social Medias
+
+- [Facebook group](https://www.facebook.com/groups/UVic.io/) (post everything here much users)
+- [Club landing page design](https://github.com/uvicwebdev/club-landing)
+- [Twitter](https://twitter.com/uvicwebdev)
+
 
