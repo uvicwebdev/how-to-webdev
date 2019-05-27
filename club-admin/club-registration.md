@@ -1,3 +1,11 @@
+# Club Registration
+
+Follow this template to complete the club registration form.
+
+### New or Returning Club?
+
+> Returning Club
+
 ### Club Name
 
 > The UVic Web Design and Development Club
@@ -16,15 +24,15 @@ Your Email
 
 ### Club Email Address
 
-Work in progress
+> uvicwebdev@gmail.com
 
 ### Club Website
 
-> [webdev.uvic.club](#)
+> None
 
 ### Semester
 
-Whichever semester it is
+Fall/Spring/Summer
 
 ### Request for Funding
 
