@@ -4,7 +4,7 @@
  
 **20XX Constitution**
 
--
+---
 
 **Article 1: Name**
 
