@@ -6,8 +6,8 @@
 **Before the beginning of every semester you wish to be active**, make sure you understand all of the deadlines for below items so you can complete them on time:
 
 - [Register as a returning club](https://uvss.ca/student-groups/clubs/registration-resources/returning-club/), here's some info that will come in handy:
-    * [Club Constitution](club-admin/constitution2016.pdf)
-    * [Club Description](club-admin/club-description.txt)
+    * [Club Constitution](club-admin/constitution.md)
+    * [Club Registration](club-admin/club-registration.md)
 
 
 - [Attend the first Clubs Council meeting of the semester](https://uvss.ca/clubs/)
@@ -17,7 +17,6 @@
 - [Book a room](http://www.uvic.ca/registrar/students/services/index.php)
    * *If you have a faculty member that can book a room for you before you are ratified, you have a better chance of booking (rooms in ECS book up very quickly)*
    * *Bob Wright Building is a nice back-up plan (nicish projectors, lots of outlets, nicer building, etc)*
-
 
 # Clubs Day
 
@@ -29,10 +28,20 @@ Clubs and Course Union days are usually around the 2nd or 3rd week of the beggin
 
 # The Social Medias
 
-- [Facebook group](https://www.facebook.com/groups/UVic.io/) (post everything here much users)
-- [Facebook account](https://www.facebook.com/Uvicaccount) (post on group from account)
-- [Slack group](https://webdevclub.slack.com/messages) (great for organizing events and sharing memes)
-- [Club landing page design](https://github.com/uvicwebdev/club-landing) (nice to have ready when recruiting potential members in conversation)
+- [Facebook Group](https://www.facebook.com/groups/uvicwebdev) (post everything here much users)
+- [Facebook Page](https://www.facebook.com/UVicWebDev) (post on group from page)
+- [Slack](https://webdevclub.slack.com) (great for organizing events and sharing memes)
+- [GitHub](https://github.com/uvicwebdev) (where we post workshop materials)
 - [Twitter](https://twitter.com/uvicwebdev) (the hype account)
+- [Instagram](https://www.instagram.com/uvicwebdev) (just for show)
+- [ProductHunt](https://www.producthunt.com/@uvic_io) (for cool things)
+- [Gmail](@uvicwebdev@gmail.com) (emails are still a thing)
+
+# The Hackathons
+
+- [HackUVic](http://www.hackuvic.com)
+   - [Twitter](https://twitter.com/hackuvic)
+- [HackathingUVic](http://hackathinguvic.com )
+   - [Twitter](https://twitter.com/HackathingUVic)
 
 
