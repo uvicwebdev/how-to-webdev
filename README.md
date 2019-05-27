@@ -35,7 +35,7 @@ Clubs and Course Union days are usually around the 2nd or 3rd week of the beggin
 - [Twitter](https://twitter.com/uvicwebdev) (the hype account)
 - [Instagram](https://www.instagram.com/uvicwebdev) (just for show)
 - [ProductHunt](https://www.producthunt.com/@uvic_io) (for cool things)
-- [Gmail](@uvicwebdev@gmail.com) (emails are still a thing)
+- <uvicwebdev@gmail.com> (emails are still a thing)
 
 # The Hackathons
 
